@@ -54,5 +54,5 @@ This dataset was sourced from Kaggle: [Sales Data Sample](https://www.kaggle.com
 1. Clone the repository
 2. Open `Sales_Data_Analysis.ipynb` in Jupyter Notebook or any compatible environment
 3. Run all cells step-by-step
-4. Refer to `Sales_Data_Analysis_Report.pdf` for a quick summary
+
 
